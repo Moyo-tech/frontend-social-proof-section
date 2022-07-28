@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/responsive-stats-component-using-flexbox-yz7lWwiPC2)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-social-proof-section-built-with-css-grid-and-flexbox-1WWJftlpUw)
 - [Live Site URL](https://prismatic-palmier-e36078.netlify.app/)
 
 ### Built with
